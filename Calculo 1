@@ -1,0 +1,10 @@
+a = 10 
+b = 30 
+c = 30*10 * 5
+
+print("resultado = ", c)
+## Cambiado del factor 102 segun el requerimiento del negocio
+## Cambiado el factor 110 segun junta de control
+
+d = c * 110
+print("resultado total = ", d)
