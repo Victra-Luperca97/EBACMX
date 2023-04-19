@@ -1,6 +1,6 @@
 # Prueba de Python 
 # Nueva variable "c"
-# Nueva variable E 
+# Nueva variable e como Factor
 a = 10 
 b = 30 
 e = 1.1
@@ -14,3 +14,4 @@ print("resultado = ", c)
 
 d = c * 200
 print("resultado total = ", d)
+ 
